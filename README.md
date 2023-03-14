@@ -4,7 +4,7 @@
 </div>
 <div>
    <h4>
-      <p>Sou Eng. Mecânico de formação e decidi dar uma mergulhada nesse mundo dev!</p>
+      <p>Sou Eng. Mecânico de formação e decidi dar uma mergulhada nesse mundo dev.</p>
       <p>A princípio estou estudando essas linguagens aqui:</p>
    </h4>
    <img align="center" alt="rxLemes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
