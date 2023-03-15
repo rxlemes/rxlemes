@@ -5,13 +5,22 @@
 <div>
    <h4>
       <p>Sou Eng. Mecânico de formação e decidi dar uma mergulhada nesse mundo dev, e está sendo interessantíssimo!!!</p>
-      <p>A princípio estou estudando essas linguagens aqui:</p>
+   </h4>
+</div>
+
+   ##
+
+<div>
+   <h4>
+   <p>A princípio estou estudando essas linguagens aqui:</p>
    </h4>
    <img align="center" alt="rxLemes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="rxLemes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="rxLemes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
+   ##
+  
 <div align="left">
   <h4>Você também pode me encontrar nessas redes pra gente trocar uma ideia e escutar um som! 👇</h4>
   <a href="https://www.linkedin.com/in/renan-lemes-1bb77a128/" taget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" tagetg="_blank"></a>
